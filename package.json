@@ -1,0 +1,24 @@
+{
+  "name": "dinosaurs",
+  "version": "1.0.0",
+  "description": "Udacity project 1, dinosaurs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TestingLitmus/studious-octo-chainsaw.git"
+  },
+  "keywords": [
+    "udacity",
+    "dinosaur",
+    "project"
+  ],
+  "author": "Justin Buchanan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TestingLitmus/studious-octo-chainsaw/issues"
+  },
+  "homepage": "https://github.com/TestingLitmus/studious-octo-chainsaw#readme"
+}
